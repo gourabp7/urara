@@ -1,11 +1,11 @@
 ---
-title: 'Hello World'
-image: '/hello-world/urara.webp'
+title: 'About'
+image: '/about/urara.webp'
 alt: 'Urara'
 created: 2021-11-01
 updated: 2021-12-12
 tags:
-  - 'Hello World'
+  - 'About'
   - 'Urara'
 ---
 
