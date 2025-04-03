@@ -11,17 +11,17 @@
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/elements</loc>
-            <lastmod>2025-03-31T18:16:52.309Z</lastmod>
+            <loc>https://urara-demo.netlify.app/about/elements</loc>
+            <lastmod>2025-04-03T20:35:13.492Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/toc-disabled</loc>
-            <lastmod>2025-03-31T18:16:52.309Z</lastmod>
+            <loc>https://urara-demo.netlify.app/about/toc-disabled</loc>
+            <lastmod>2025-04-03T20:35:13.492Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world</loc>
+            <loc>https://urara-demo.netlify.app/about</loc>
             <lastmod>2021-12-12T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
