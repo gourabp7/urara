@@ -18,7 +18,7 @@
     rel='author'>
     {site.author.name}
   </a>
-  <span class='opacity-50' class:hidden={preview}>/</span>
+  <!-- <span class='opacity-50' class:hidden={preview}>/</span>
   <a class='u-url u-uid swap group/time' href={post.path}>
     <time
       class='group-hover/time:opacity-0 font-semibold opacity-75 duration-500 ease-in-out mr-auto dt-published'
@@ -32,5 +32,5 @@
       itemprop='dateModified'>
       {stringUpdated}
     </time>
-  </a>
+  </a> -->
 </div>
