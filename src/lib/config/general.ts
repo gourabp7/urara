@@ -60,22 +60,34 @@ export const header: HeaderConfig = {
       text: 'About',
     },
     {
-      link: '/about/elements',
+      link: '/research',
+      text: 'Research',
+    },
+    {
+      link: '/publications',
       text: 'Publications',
+    },
+    {
+      link: '/conferences',
+      text: 'Conferences',
+    },
+    {
+      link: '/teaching',
+      text: 'Teaching',
     },
   ],
 }
 
 export const footer: FooterConfig = {
   nav: [
-    {
-      link: '/atom.xml',
-      text: 'Feed',
-    },
-    {
-      link: '/sitemap.xml',
-      text: 'Sitemap',
-    },
+    // {
+    //   link: '/atom.xml',
+    //   text: 'Feed',
+    // },
+    // {
+    //   link: '/sitemap.xml',
+    //   text: 'Sitemap',
+    // },
   ],
 }
 
