@@ -73,5 +73,3 @@ image: '/assets/AwardPhoto.jpg'
 
 - **An Efficient Hardware-Aware Matrix-Free Implementation on GPUs** <br>
 **_NVIDIA GTC 2022 - CUDA Developers Session_**
-
-s
