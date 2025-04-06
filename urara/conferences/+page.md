@@ -34,8 +34,8 @@ image: '/assets/AwardPhoto.jpg'
 **Hardware aware matrix-free approach for accelerating finite-element discretized eigenvalue problems: Application to large-scale Kohn-Sham density functional theory** <br>
 **_The 9th European Congress on Computational Methods in Applied Sciences and Engineering Congress (ECCOMAS) 2024, Lisbon, Portugal_**
 
-<div style="width:100%; margin: auto;">
-<img src="/assets/eccomas.png"/>
+<div style="width:65%; margin: auto;">
+<img src="/assets/eccomas.jpeg"/>
 </div>
 
 ---
