@@ -7,11 +7,11 @@ image: '/assets/AwardPhoto.jpg'
 # toc: false
 ---
 
-# Conferences
-
-<p style="text-align:center;">SC '23 Award Ceremony - ACM Gordon Bell Prize</p>
+<p style="text-align:center;">SC '23 Award Ceremony - <a href="https://www.acm.org/media-center/2023/november/gordon-bell-prize-2023"> ACM Gordon Bell Prize </a></p>
 
 ---
+
+# Conferences
 
 **Fast hardware-aware matrix-free algorithm for large-scale finite element discretized eigenvalue problems** <br>
 **_PMRF Symposium 2025, IIT Hyderabad, India_**
@@ -66,4 +66,11 @@ image: '/assets/AwardPhoto.jpg'
 
 ---
 
-# Talks
+# Invited Talks
+
+- **Hardware aware matrix-free approach for accelerating FE discretized eigenvalue problems: Application to large-scale Kohn-Sham density functional theory** <br>
+**_MFEM Community Workshop 2024_**
+
+- **An Efficient Hardware-Aware Matrix-Free Implementation on GPUs** <br>
+**_NVIDIA GTC 2022 - CUDA Developers Session_**
+
