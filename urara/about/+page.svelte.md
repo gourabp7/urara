@@ -4,9 +4,9 @@ title: 'About'
 # alt: 'Urara'
 # created: 2021-11-01
 # updated: 2021-12-12
-# tags:
-#   - 'About'
-#   - 'Urara'
+tags:
+  - 'ACM Gordon Bell Prize'
+  - 'DFT-FE'
 ---
 
 Hi, my name’s Gourab and I’m a PhD Student at the Department of Computational Data Sciences, Indian Institute of Science (IISc), Bangalore. My research focusses on developing hardware-aware computational algorithms and novel implementation procedures for accelerating large-scale eigenvalue problems on heterogenous architectures and further accelerating these problems by developing communication avoidance procedures. These problems arise in quantum modeling of materials and are solved on extreme-scaling computing architectures using finite element discretization of Kohn-Sham density functional theory equations.
