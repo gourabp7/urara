@@ -1,5 +1,5 @@
 ---
-title: Conferences
+title: Conferences and Talks
 image: '/assets/AwardPhoto.jpg'
 # summary: This post has disabled table of contents.
 # created: 2021-12-12
@@ -7,11 +7,13 @@ image: '/assets/AwardPhoto.jpg'
 # toc: false
 ---
 
-<p style="text-align:center;">SC'23 Ceremony - ACM Gordon Bell Prize</p>
+# Conferences
+
+<p style="text-align:center;">SC '23 Award Ceremony - ACM Gordon Bell Prize</p>
 
 ---
 
-**Hardware-aware matrix-free algorithm for CPU architectures** <br>
+**Fast hardware-aware matrix-free algorithm for large-scale finite element discretized eigenvalue problems** <br>
 **_PMRF Symposium 2025, IIT Hyderabad, India_**
 
 <div style="width:65%; margin: auto;">
@@ -29,11 +31,39 @@ image: '/assets/AwardPhoto.jpg'
 
 ---
 
-**Fast hardware-aware matrix-free algorithm for large-scale finite element discretized eigenvalue problems** <br>
-**_Indo-German Workshop on Hardware-aware Scientific Computing (IGHASC)_**
+**Hardware aware matrix-free approach for accelerating finite-element discretized eigenvalue problems: Application to large-scale Kohn-Sham density functional theory** <br>
+**_The 9th European Congress on Computational Methods in Applied Sciences and Engineering Congress (ECCOMAS) 2024, Lisbon, Portugal_**
 
-<div style="width:65%; margin: auto;">
-<img src="/assets/ighasc.png"/>
+<div style="width:100%; margin: auto;">
+<img src="/assets/eccomas.png"/>
 </div>
 
 ---
+
+**_ACM India Event 2024, NISER Bhubaneswar, India_**
+
+<div style="width:100%; margin: auto;">
+<img src="/assets/acm-india.jpg"/>
+</div>
+
+---
+
+**Large-Scale Materials Modeling at Quantum Accuracy: Ab Initio Simulations of Quasicrystals and Interacting Extended Defects in Metallic Alloys** <br>
+**_SC '23: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, Denver, USA_**
+
+<div style="width:100%; margin: auto;">
+<img src="/assets/sc23.jpg"/>
+</div>
+
+---
+
+**An Efficient Hardware-Aware Matrix-Free Implementation for the Finite-Element Discretized Operator Action on Multi-Component Vectors** <br>
+**_SIAM Conference on Computational Science and Engineering (CSE23) 2023, Amsterdam, The Netherlands_**
+
+<div style="width:100%; margin: auto;">
+<img src="/assets/siam_cse23.jpg"/>
+</div>
+
+---
+
+# Talks
