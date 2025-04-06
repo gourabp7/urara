@@ -79,3 +79,5 @@ Issued by Department of Science and Technology (DST), Government of India
 - Programming in Modern C++ (noc24-cs125) at NPTEL (July 2024 - Dec 2024)
 - Numerical Linear Algebra (DS284) at Department of Computational and Data Sciences, IISc (Aug 2024 - Dec 2024)
 - Numerical Linear Algebra (DS284) at Department of Computational and Data Sciences, IISc (Aug 2022 - Dec 2022)
+
+s

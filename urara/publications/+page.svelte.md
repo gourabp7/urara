@@ -37,4 +37,4 @@ Ab initio electronic-structure has remained dichotomous between achievable accur
 <img src="/assets/quasiCrystal.png"/>
 </div>
 
----
+s

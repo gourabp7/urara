@@ -26,7 +26,7 @@ image: '/assets/AwardPhoto.jpg'
 **_Indo-German Workshop on Hardware-aware Scientific Computing (IGHASC) 2024, Heidelberg, Germany_**
 
 <div style="width:65%; margin: auto;">
-<img src="/assets/ighasc.png"/>
+<img src="/assets/ighasc.jpeg"/>
 </div>
 
 ---
@@ -74,3 +74,4 @@ image: '/assets/AwardPhoto.jpg'
 - **An Efficient Hardware-Aware Matrix-Free Implementation on GPUs** <br>
 **_NVIDIA GTC 2022 - CUDA Developers Session_**
 
+s
