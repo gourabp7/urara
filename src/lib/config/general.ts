@@ -60,10 +60,6 @@ export const header: HeaderConfig = {
       text: 'About',
     },
     {
-      link: '/research',
-      text: 'Research',
-    },
-    {
       link: '/publications',
       text: 'Publications',
     },

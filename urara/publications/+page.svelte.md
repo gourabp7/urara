@@ -1,155 +1,36 @@
 ---
-title: Publications
-# created: 2021-12-12
-tags: ['Urara', 'Elements']
+title: 'Publications'
+# image: '/about/urara.webp'
+# alt: 'Urara'
+# created: 2021-11-01
+# updated: 2021-12-12
+# tags:
+  # - 'About'
+  # - 'Urara'
 ---
 
-## Headings
+[**Large-Scale Materials Modeling at Quantum Accuracy: Ab Initio Simulations of Quasicrystals and Interacting Extended Defects in Metallic Alloys** **_(Das et al., 2023)_**](https://doi.org/10.1145/3581784.3627037) <br>
 
-### Heading
+**_(Winner of the 2023 ACM Gordon Bell Prize, the highest prize in High Performance Computing)_**
 
-#### Heading
+Ab initio electronic-structure has remained dichotomous between achievable accuracy and length-scale. Quantum many-body (QMB) methods realize quantum accuracy but fail to scale. Density functional theory (DFT) scales favorably but remains far from quantum accuracy. We present a framework that breaks this dichotomy by use of three interconnected modules: (i) invDFT: a methodological advance in inverse DFT linking QMB methods to DFT; (ii) MLXC: a machine-learned density functional trained with invDFT data, commensurate with quantum accuracy; (iii) DFT-FE-MLXC: an adaptive higher-order spectral finite-element (FE) based DFT implementation that integrates MLXC with efficient solver strategies and HPC innovations in FE-specific dense linear algebra, mixed-precision algorithms, and asynchronous compute-communication. We demonstrate a paradigm shift in DFT that not only provides an accuracy commensurate with QMB methods in ground-state energies, but also attains an unprecedented performance of 659.7 PFLOPS (43.1% peak FP64 performance) on 619,124 electrons using 8,000 GPU nodes of Frontier supercomputer.
 
-##### Heading
-
-###### Heading
-
----
-
-## Paragraphs
-
-||spoiler||
-
-**_The_** _quick_ <u>brown</u> [fox](https://www.foxnews.com/) `jumps` ~~over~~ the lazy **dog**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-建格的何另始養離腳合兒現各談花車是都無處與費別、信善行修覺自！壓總談下市率應次司公母兒用什一線送用標地倒直作任老數年白安足個後引使名隊懷持日落異今特族？
-
-一士我像衣買了人義，計念？
-
-期老外並中般灣作各現初知強車我的品式企國立市它北待不型師文人注信方，各成能久，然的孩界，他事應在創灣字母寫麼，會不作散際，學節水……全當名己會天還著行多是生如內他道了家至種樣見景時一……區行水影。滿用機！野於不他北軍沒企國了安巴考治連，用然手些裡像是晚，法無走，教西單不假家這廣邊務土至行氣們個身王沒影，進的客動習外因國說，大傷生出壓統發信全一非爾證。被明快至一子的劇成，義定種刻戲立日發民！出安大是養下裡的，認放官時外的：的富你排說物展年定實兒良吃乎、陸般動後，不力在理校感……顧眼王長力老。
-
-重多一？生光聯……動說麼了：起形市般我題臉事級。
-
-> In solitude, where we are least alone.
-
-私は絶対いよいよ漠然たる相当心に対してはずの他にできるならな。けっして今に養成めも何だか漠然たる仕事たないだけにしからならでをは話安んずるないですて、わざわざには聴いましたなけれた。権力を気がつきなのはどうしても先刻が毫もらしくでう。
-
-ようやく嘉納さんに供獄とても承諾をやるでしょ習慣その主義それか攻撃にに対してお関係でたあるですと、その今は俺か釣竿頭に喜ぶば、嘉納さんののより考のそれをよくごふりと云ってあなた一団がお融和へ見えようにまあご経験にしずませば、とうとうもっとも誤解になるたでいるないのを思っですた。しかもしかしながら大首へする気もずいぶん美味と移ろたて、この言葉にもいうですてってがたにしてしまえたない。この限り時代のためその学校も私上を吹き込んんかと大森さんをしなませ、人の今日んというご講義ただですば、晩の時で長靴が始めだけの時代に前もっでいて、どうの今日が思えばそのためとあたかも足りんなとしだ事でが、ないますなて少し実職業いでし事だろたませ。
-
-さて学校か不幸か話に教えですけれども、今中力が起るて得るですためがご講演の今に訊かたです。多年をはどうしても思うでいうんたずでと、まるで何とも繰り返しが周旋はさっそく悪いうので。
-
-[scrollToTop](#headings)
+<div style="width:65%; margin: auto;">
+<img src="/assets/quasiCrystal.png"/>
+</div>
 
 ---
 
-## Lists
 
-### Definition List (dl)
+[**Fast hardware-aware matrix-free algorithms for higher-order finite-element discretized matrix multivector products on distributed systems** **_(Panigrahi et al., 2024)_**](https://doi.org/10.1016/j.jpdc.2024.104925) <br>
 
-<dl>
-    <dt>Definition List Title</dt>
-    <dd>This is a definition list division.</dd>
-</dl>
+**_(Part of the work that won the 2023 ACM Gordon Bell Prize, the highest prize in High Performance Computing)_**
 
-### Ordered List (ol)
+Recent hardware-aware matrix-free algorithms for higher-order finite-element (FE) discretized matrix-vector multiplications reduce floating point operations and data access costs compared to traditional sparse matrix approaches. In this work, we address a critical gap in existing matrix-free implementations which are not well suited for the action of FE discretized matrices on very large number of vectors. In particular, we propose efficient matrix-free algorithms for evaluating FE discretized matrix-multivector products on both multi-node CPU and GPU architectures. To this end, we employ batched evaluation strategies, with the batchsize tailored to underlying hardware architectures, leading to better data locality and enabling further parallelization. On CPUs, we utilize even-odd decomposition, SIMD vectorization, and overlapping computation and communication strategies. On GPUs, we develop strategies to overlap compute with data movement for achieving efficient pipelining and reduced data accesses through the use of GPU-shared memory, constant memory and kernel fusion. Our implementation outperforms the baselines for Helmholtz operator action on 1024 vectors, achieving up to 1.4x improvement on one CPU node and up to 2.8x on one GPU node, while reaching up to 4.4x and 1.5x improvement on multiple nodes for CPUs (3072 cores) and GPUs (24 GPUs), respectively. We further benchmark the performance of the proposed implementation for solving a model eigenvalue problem for 1024 smallest eigenvalue-eigenvector pairs by employing the Chebyshev Filtered Subspace Iteration method, achieving up to 1.5x improvement on one CPU node and up to 2.2x on one GPU node while reaching up to 3.0x and 1.4x improvement on multi-node CPUs (3072 cores) and GPUs (24 GPUs), respectively.
 
-1. List Item 1
-2. List Item 2
-3. List Item 3
-
-### Unordered List (ul)
-
-- List Item 1
-- List Item 2
-- List Item 3
-
-### Checkbox List (ul)
-
-- [ ] List Item 1 unchecked
-- [x] List Item 2 checked
-- [x] List Item 3 checked
-  - [ ] Sub List Item 1 unchecked
-  - [x] Sub List Item 1 checked
-
-## Table
-
-| Table Header 1 | Table Header 2 | Table Header 3 |
-| -------------- | -------------- | -------------- |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-
-| Table Header 1 | Table Header 2 | Table Header 3 |
-| :------------- | :------------: | -------------: |
-| Division 1     |   Division 2   |     Division 3 |
-| Division 1     |   Division 2   |     Division 3 |
-| Division 1     |   Division 2   |     Division 3 |
-
-[scrollToTop](#headings)
-
-## Footnotes
-
-Here is a footnote reference. [^1]
-
-This is a long note. [^longnote]
-
-This is an inline note. ^[You can type footnotes inline, so you don’t have to pick an identifier manually.]
-
-[^1]: Here is the footnote.
-[^longnote]: Here's one footnote with longer identifier.
-
-[scrollToTop](#headings)
-
-## Code
-
-```ts twoslash title="examples/index.ts"
-for (const x in [0]) console.log(x)
-```
-
-```ts twoslash {1-6}
-interface IdLabel {
-  id: number /* some fields */
-}
-interface NameLabel {
-  name: string /* other fields */
-}
-type NameOrId<T extends number | string> = T extends number ? IdLabel : NameLabel
-// This comment should not be included
-
-// ---cut---
-function createLabel<T extends number | string>(idOrName: T): NameOrId<T> {
-  throw 'unimplemented'
-}
-
-const a = createLabel('typescript')
-```
-
-## Misc
-
-<sup>Lorem</sup> <sub>ipsum</sub> <cite>dolor sit amet</cite>, <acronym title="Consectetur Adipiscing Elit">consectetur adipiscing elit</acronym>, <abbr title="Aliqua">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</abbr>. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
-
-リバースカードオープン、エネミーコントローラー！
-
-ライフを 1000 払い、コマンド入力、<kbd>←</kbd> <kbd>→</kbd> <kbd>A</kbd> <kbd>B</kbd>！
-
-このコマンドにより、全てのアニヲタを破壊する！
-
-[scrollToTop](#headings)
-
-## Svelte Components
-
-<script>
-  import { YouTube, Spotify, SoundCloud } from 'sveltekit-embed'
-</script>
-
-<YouTube youTubeId="WysuxO4yR04" />
-
-<br />
-
-<Spotify spotifyLink="track/6pCXYUR3mBfXY8s0FYcZqQ" width="100%" />
-
-<br />
-
-<SoundCloud soundcloudLink="https://soundcloud.com/hatsunemikuofficial/sets/sweety-glitch-remix-contest" />
+<div style="width:100%; margin: auto;">
+<img src="/assets/MatrixFree.png"/>
+</div>
+<div style="width:100%; margin: auto;">
+<img src="/assets/GPU.png"/>
+</div>
