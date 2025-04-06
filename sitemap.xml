@@ -11,23 +11,23 @@
     </url>
     
         <url>
+            <loc>https://urara-demo.netlify.app/workshops</loc>
+            <lastmod>2025-04-06T20:58:51.985Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
             <loc>https://urara-demo.netlify.app/conferences</loc>
-            <lastmod>2025-04-06T20:56:08.940Z</lastmod>
+            <lastmod>2025-04-06T20:58:51.984Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/publications</loc>
-            <lastmod>2025-04-06T20:56:08.940Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
-            <loc>https://urara-demo.netlify.app/workshops</loc>
-            <lastmod>2025-04-06T20:56:08.940Z</lastmod>
+            <lastmod>2025-04-06T20:58:51.984Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/about</loc>
-            <lastmod>2025-04-06T20:56:08.875Z</lastmod>
+            <lastmod>2025-04-06T20:58:51.916Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
