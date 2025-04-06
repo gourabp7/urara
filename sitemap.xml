@@ -11,18 +11,23 @@
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/about/elements</loc>
-            <lastmod>2025-04-05T06:00:39.337Z</lastmod>
+            <loc>https://urara-demo.netlify.app/conferences</loc>
+            <lastmod>2025-04-06T16:42:37.123Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/about/toc-disabled</loc>
-            <lastmod>2025-04-05T06:00:39.337Z</lastmod>
+            <loc>https://urara-demo.netlify.app/publications</loc>
+            <lastmod>2025-04-06T16:42:37.123Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/teaching</loc>
+            <lastmod>2025-04-06T16:42:37.123Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/about</loc>
-            <lastmod>2021-12-12T00:00:00.000Z</lastmod>
+            <lastmod>2025-04-06T16:42:37.109Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
