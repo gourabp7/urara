@@ -8,10 +8,21 @@ export const site: SiteConfig = {
     // status: '🌸',
     metadata: [
       {
-        // text: 'kwaa',
         icon: 'i-simple-icons-github',
         link: 'https://gourabp7.github.io/'
       },
+      {
+        icon: 'i-simple-icons-linkedin',
+        link: 'https://www.linkedin.com/in/gourab-panigrahi-083939237'
+      },
+      {
+        icon: 'i-simple-icons-orcid',
+        link: 'https://orcid.org/0000-0001-8121-3320'
+      },
+      {
+        icon: 'i-simple-icons-acm',
+        link: 'https://orcid.org/0000-0001-8121-3320'
+      }
     ]
   },
   description: 'Powered by SvelteKit/Urara',
