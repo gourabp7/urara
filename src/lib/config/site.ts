@@ -8,13 +8,14 @@ export const site: SiteConfig = {
     // status: '🌸',
     metadata: [
       {
-        icon: 'i-simple-icons-googlescholar',
-        link: 'https://scholar.google.com/citations?user=Cn4q0OQAAAAJ&hl=en'
-      },
-      {
         icon: 'i-simple-icons-github',
         link: 'https://github.com/gourabp7'
       },
+      {
+        icon: 'i-simple-icons-googlescholar',
+        link: 'https://scholar.google.com/citations?user=Cn4q0OQAAAAJ&hl=en'
+      },
+
       {
         icon: 'i-simple-icons-linkedin',
         link: 'https://www.linkedin.com/in/gourab-panigrahi-083939237'
