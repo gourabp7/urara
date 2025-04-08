@@ -7,27 +7,27 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://https://gourabp7.github.io/</loc>
+      <loc>https://gourabp7.github.io/</loc>
     </url>
     
         <url>
-            <loc>https://https://gourabp7.github.io//conferences</loc>
-            <lastmod>2025-04-08T09:29:55.645Z</lastmod>
+            <loc>https://gourabp7.github.io//publications</loc>
+            <lastmod>2025-04-08T10:00:55.375Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://gourabp7.github.io//publications</loc>
-            <lastmod>2025-04-08T09:29:55.645Z</lastmod>
+            <loc>https://gourabp7.github.io//workshops</loc>
+            <lastmod>2025-04-08T10:00:55.375Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://gourabp7.github.io//workshops</loc>
-            <lastmod>2025-04-08T09:29:55.645Z</lastmod>
+            <loc>https://gourabp7.github.io//conferences</loc>
+            <lastmod>2025-04-08T10:00:55.374Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://https://gourabp7.github.io//about</loc>
-            <lastmod>2025-04-08T09:29:55.584Z</lastmod>
+            <loc>https://gourabp7.github.io//about</loc>
+            <lastmod>2025-04-08T10:00:55.314Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
