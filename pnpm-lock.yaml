@@ -18,7 +18,7 @@ importers:
         specifier: ^1.1.11
         version: 1.1.11
       '@iconify-json/simple-icons':
-        specifier: ^1.1.61
+        specifier: ^1.2.31
         version: 1.2.31
       '@importantimport/eslint-config':
         specifier: 1.0.0-alpha.2
