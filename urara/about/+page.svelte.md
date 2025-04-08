@@ -75,7 +75,7 @@ Issued by Department of Science and Technology (DST), Government of India
 
 ## Teaching Assistant
 
-- Programming in Modern C++ (noc25-cs58) at NPTEL (Jan 2025 - April 2025)
-- Programming in Modern C++ (noc24-cs125) at NPTEL (July 2024 - Dec 2024)
+- [Programming in Modern C++ (noc25-cs58) at NPTEL (Jan 2025 - April 2025)](https://youtube.com/playlist?list=PLcj3Q8WAlaGy_5h0zLlP3LBTzYYtuP3yM&feature=shared)
+- [Programming in Modern C++ (noc24-cs125) at NPTEL (July 2024 - Oct 2024)](https://youtube.com/playlist?list=PLcj3Q8WAlaGwzSETKfAdW8f0A_ffsCsSE&feature=shared)
 - Numerical Linear Algebra (DS284) at Department of Computational and Data Sciences, IISc (Aug 2024 - Dec 2024)
 - Numerical Linear Algebra (DS284) at Department of Computational and Data Sciences, IISc (Aug 2022 - Dec 2022)
