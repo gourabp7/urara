@@ -30,7 +30,7 @@ export const site: SiteConfig = {
     ]
   },
   description: 'Powered by SvelteKit/Urara',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'https://gourabp7.github.io/',
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'gourabp7.github.io/',
   lang: 'en-US',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   // subtitle: 'Sweet & Powerful SvelteKit Blog Template',
