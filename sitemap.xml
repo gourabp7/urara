@@ -7,27 +7,27 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://urara-demo.netlify.app</loc>
+      <loc>https://https://gourabp7.github.io/</loc>
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/conferences</loc>
-            <lastmod>2025-04-06T21:38:51.601Z</lastmod>
+            <loc>https://https://gourabp7.github.io//publications</loc>
+            <lastmod>2025-04-08T07:19:55.651Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/publications</loc>
-            <lastmod>2025-04-06T21:38:51.601Z</lastmod>
+            <loc>https://https://gourabp7.github.io//workshops</loc>
+            <lastmod>2025-04-08T07:19:55.651Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/workshops</loc>
-            <lastmod>2025-04-06T21:38:51.601Z</lastmod>
+            <loc>https://https://gourabp7.github.io//conferences</loc>
+            <lastmod>2025-04-08T07:19:55.650Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/about</loc>
-            <lastmod>2025-04-06T21:38:51.540Z</lastmod>
+            <loc>https://https://gourabp7.github.io//about</loc>
+            <lastmod>2025-04-08T07:19:55.589Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
