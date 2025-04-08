@@ -6,15 +6,16 @@ export const site: SiteConfig = {
     bio: 'PhD Student <br>  <a href="https://sites.google.com/view/matrix-lab" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> MATRIX Lab</a>  <br> <a href="https://cds.iisc.ac.in/" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> Department of Computational Data Sciences</a> <br> <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer" style="color: #007acc;">Indian Institute of Science (IISc), Bangalore</a> <br>',
     name: 'Gourab Panigrahi',
     // status: '🌸',
-    // metadata: [
-    //   {
-    //     icon: 'i-simple-icons-github',
-    //     link: 'https://github.com/kwaa'
-    //   }
-    // ]
+    metadata: [
+      {
+        // text: 'kwaa',
+        icon: 'i-simple-icons-github',
+        link: 'https://gourabp7.github.io/'
+      },
+    ]
   },
   description: 'Powered by SvelteKit/Urara',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'https://gourabp7.github.io/',
   lang: 'en-US',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   // subtitle: 'Sweet & Powerful SvelteKit Blog Template',
