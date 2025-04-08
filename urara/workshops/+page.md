@@ -18,3 +18,5 @@ image: '/assets/nsm_hackathon.jpg'
 </div>
 
 <p style="text-align:center;"> <b>Finite Element Workshop 2023 organized with <i> IEEE Bangalore Chapter and CeNSE Department, IISc</i></b> </p>
+
+<p style="text-align:center;">Organized a workshop covering Finite Element Methods, Multiphysics Modeling and various solvers employed in these models </p>
