@@ -7,7 +7,7 @@ image: '/assets/AwardPhoto.jpg'
 # toc: false
 ---
 
-<p style="text-align:center;">SC '23 Award Ceremony - <a href="https://www.acm.org/media-center/2023/november/gordon-bell-prize-2023"> ACM Gordon Bell Prize </a></p>
+<p style="text-align:center;"> <a href="https://youtu.be/jjwo7lEF-kc?si=lPGCfKxXnrvjzGUR&t=115"> SC '23 Award Ceremony - ACM Gordon Bell Prize </a></p>
 
 ---
 
