@@ -8,8 +8,12 @@ export const site: SiteConfig = {
     // status: '🌸',
     metadata: [
       {
+        icon: 'i-simple-icons-googlescholar',
+        link: 'https://scholar.google.com/citations?user=Cn4q0OQAAAAJ&hl=en'
+      },
+      {
         icon: 'i-simple-icons-github',
-        link: 'https://gourabp7.github.io/'
+        link: 'https://github.com/gourabp7'
       },
       {
         icon: 'i-simple-icons-linkedin',
@@ -19,9 +23,10 @@ export const site: SiteConfig = {
         icon: 'i-simple-icons-orcid',
         link: 'https://orcid.org/0000-0001-8121-3320'
       },
+
       {
         icon: 'i-simple-icons-acm',
-        link: 'https://orcid.org/0000-0001-8121-3320'
+        link: 'https://dl.acm.org/profile/99661043822'
       }
     ]
   },
