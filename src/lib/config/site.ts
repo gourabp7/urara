@@ -3,7 +3,7 @@ import type { SiteConfig } from '$lib/types/site'
 export const site: SiteConfig = {
   author: {
     avatar: '/assets/profile.png',
-    bio: 'PhD Student <br>  <a href="https://sites.google.com/view/matrix-lab" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> MATRIX Lab</a>  <br> <a href="https://cds.iisc.ac.in/" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> Department of Computational Data Sciences</a> <br> <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer" style="color: #007acc;">Indian Institute of Science (IISc), Bangalore</a> <br>',
+    bio: 'PhD Student <br>  <a href="https://sites.google.com/view/matrix-lab" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> MATRIX Lab</a>  <br> <a href="https://cds.iisc.ac.in" target="_blank" rel="noopener noreferrer" style="color: #007acc;"> Department of Computational Data Sciences</a> <br> <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer" style="color: #007acc;">Indian Institute of Science (IISc), Bangalore</a> <br>',
     name: 'Gourab Panigrahi',
     // status: '🌸',
     metadata: [
