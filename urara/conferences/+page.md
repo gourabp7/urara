@@ -22,8 +22,8 @@ image: '/assets/AwardPhoto.jpg'
 
 ---
 
-**Fast hardware-aware matrix-free algorithm for large-scale finite element discretized eigenvalue problems** <br>
-**_Indo-German Workshop on Hardware-aware Scientific Computing (IGHASC) 2024, Heidelberg, Germany_**
+**Fast hardware-aware matrix-free algorithm for large-scale finite element discretized eigenvalue problems <span style="color:DodgerBlue">(Best Poster Award)</span>** <br>
+**_Indo-German Workshop on Hardware-aware Scientific Computing (IGHASC) 2024, Heidelberg, Germany _**
 
 <div style="width:65%; margin: auto;">
 <img src="/assets/ighasc.jpeg"/>
