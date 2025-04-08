@@ -27,7 +27,7 @@ export const site: SiteConfig = {
     //     icon: 'i-simple-icons-acm',
     //     link: 'https://dl.acm.org/profile/99661043822'
     //   }
-    ]
+    // ]
   },
   description: 'Powered by SvelteKit/Urara',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'https://gourabp7.github.io/',
