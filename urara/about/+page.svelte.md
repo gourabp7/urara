@@ -11,7 +11,7 @@ tags:
 
 <p style="text-align:center;">Main Building at IISc, Bangalore</p>
 
-Hi, my name’s Gourab and I’m a PhD Student under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi) at [MATRIX Lab](https://sites.google.com/view/matrix-lab), [Department of Computational Data Sciences](https://cds.iisc.ac.in), [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in). My research focusses on developing hardware-aware computational algorithms and novel implementation procedures for accelerating large-scale eigenvalue problems on heterogenous architectures and further accelerating these problems by developing communication avoidance procedures. These problems arise in quantum modeling of materials and are solved on extreme-scaling computing architectures using finite element discretization of Kohn-Sham density functional theory equations.
+Hi, my name’s Gourab and I’m a PhD Student under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi) at [MATRIX Lab](https://sites.google.com/view/matrix-lab), [Department of Computational and Data Sciences](https://cds.iisc.ac.in), [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in). My research focusses on developing hardware-aware computational algorithms and novel implementation procedures for accelerating large-scale eigenvalue problems on heterogenous architectures and further accelerating these problems by developing communication avoidance procedures. These problems arise in quantum modeling of materials and are solved on extreme-scaling computing architectures using finite element discretization of Kohn-Sham density functional theory equations.
 
 ---
 
@@ -31,15 +31,15 @@ Studied Non-Hermitian PT-Symmetric Quantum Hamiltonian models used to describe n
 
 ## Experience
 
-**_Project Associate_** (2020-2021) <br>
-**MATRIX Lab, Department of Computational Data Sciences, IISc**
-
-Developed hardware-aware computational algorithms based on the matrix-free paradigm to evaluate on-the-fly finite-element discretized matrix-multivector products arising in solving the DFT problem without storing the cell-level matrices or the global sparse matrix under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi).
-
 Contributed to [**DFT-FE**](https://sites.google.com/umich.edu/dftfe) [**_(Das et al., 2022)_**](https://doi.org/10.1016/j.cpc.2022.108473) <br>
 **_(Winner of the [2023 ACM Gordon Bell Prize](https://www.acm.org/media-center/2023/november/gordon-bell-prize-2023), the highest prize in High Performance Computing)_**
 
 DFT-FE (C++/CUDA/MPI) is a massively parallel finite-element based open-source code for material modeling using density functional theory (DFT). DFT-FE can handle periodic, non-periodic and semi-periodic calculations. It can further handle both pseudopotential (ONCV, Troullier-Martins) and all-electron (non-relativistic) calculations; XC functionals supported are LDA, GGA (including spin-polarized); Capabilities include ground-state calculations, structural relaxations (ionic, cell), ab-initio MD (NVE). Scalability tested on ~200,000 MPI tasks on many-core architectures and ~64,000 GPUs on hybrid CPU-GPU architectures.
+
+**_Project Associate_** (2020-2021) <br>
+**MATRIX Lab, Department of Computational and Data Sciences, IISc**
+
+Developed hardware-aware computational algorithms based on the matrix-free paradigm to evaluate on-the-fly finite-element discretized matrix-multivector products arising in solving the DFT problem without storing the cell-level matrices or the global sparse matrix under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi).
 
 **_KVPY Summer Project_** (May 2016 - July 2016) <br>
 **Theoretical Condensed Matter Group, Department of Physics, IISc**
