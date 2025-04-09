@@ -28,7 +28,7 @@ export const site: SiteConfig = {
         link: 'https://dl.acm.org/profile/99661043822'
       },
       {
-        icon: 'i-simple-icons-microsoftoutlook',
+        icon: 'i-simple-icons-gmail',
         link: 'mailto:pgourab@iisc.ac.in'
       }
     ]
