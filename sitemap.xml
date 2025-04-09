@@ -11,23 +11,23 @@
     </url>
     
         <url>
-            <loc>https://gourabp7.github.io//conferences</loc>
-            <lastmod>2025-04-09T08:12:41.154Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
             <loc>https://gourabp7.github.io//publications</loc>
-            <lastmod>2025-04-09T08:12:41.154Z</lastmod>
+            <lastmod>2025-04-09T11:53:00.389Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://gourabp7.github.io//workshops</loc>
-            <lastmod>2025-04-09T08:12:41.154Z</lastmod>
+            <lastmod>2025-04-09T11:53:00.389Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://gourabp7.github.io//conferences</loc>
+            <lastmod>2025-04-09T11:53:00.388Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://gourabp7.github.io//about</loc>
-            <lastmod>2025-04-09T08:12:41.092Z</lastmod>
+            <lastmod>2025-04-09T11:53:00.328Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
