@@ -11,7 +11,7 @@ tags:
 
 <p style="text-align:center;">Main Building at IISc, Bangalore</p>
 
-Hi, my name’s Gourab and I’m a PhD Student under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi) at [MATRIX Lab](https://sites.google.com/view/matrix-lab), [Department of Computational and Data Sciences](https://cds.iisc.ac.in), [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in). My research focusses on developing hardware-aware computational algorithms and novel implementation procedures for accelerating large-scale eigenvalue problems on heterogenous architectures and further accelerating these problems by developing communication avoidance procedures. These problems arise in quantum modeling of materials and are solved on extreme-scaling computing architectures using finite element discretization of Kohn-Sham density functional theory equations.
+Hi, my name’s Gourab and I’m a PhD Student under supervision of [Prof. Phani Motamarri](https://sites.google.com/view/matrix-lab/bio-of-the-pi) at [MATRIX Lab](https://sites.google.com/view/matrix-lab), [Department of Computational and Data Sciences](https://cds.iisc.ac.in), [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in). My research focuses on developing hardware-aware computational algorithms and novel implementation procedures for accelerating large-scale eigenvalue problems on heterogenous architectures and further accelerating these problems by developing communication avoidance procedures. These problems arise in quantum modeling of materials and are solved on extreme-scaling computing architectures using finite element discretization of Kohn-Sham density functional theory equations.
 
 ---
 
