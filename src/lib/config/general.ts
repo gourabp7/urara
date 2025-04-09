@@ -65,7 +65,7 @@ export const header: HeaderConfig = {
     },
     {
       link: '/conferences',
-      text: 'Conferences and Talks',
+      text: 'Conferences',
     },
     {
       link: '/workshops',
