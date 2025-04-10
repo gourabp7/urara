@@ -69,7 +69,7 @@ Issued by Department of Science and Technology (DST), Government of India
 ---
 
 ## Skills
-- Expertise in low-level kernel programming using `C/C++`, `CUDA`, `HIP`, and `SYCL`, specializing in developing high-performance, scalable codes leveraging `OpenMP` and `MPI` for parallel computing.
+- Expertise in low-level kernel programming using `C/C++`, `CUDA`, `HIP` and `SYCL`, specializing in developing high-performance, scalable codes leveraging `OpenMP` and `MPI` for parallel computing.
 
 - Proficient in `Python` for data analysis and algorithm development and developing dynamic web applications using `Svelte`.
 
