@@ -51,6 +51,11 @@ Studied Ising model and Spin systems using Neural Networks under Prof. Tanmoy Da
 
 Studied the variation in DOLP of light propagating through turbid media under Prof. Rajan Kanhirodan
 
+**_Treasurer_** (2024 - 2025) <br>
+**IISc ACM Student Chapter**
+
+Handled the finances of and organized various events by [IISc ACM Student Chapter](https://iisc.acm.org/)
+
 ---
 
 ## Honors and Awards
